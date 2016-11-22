@@ -1,7 +1,7 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "youth-tri-tracker",
+  "author": "",
+  "homepage": "",
   "private": true,
   "scripts": {
     "ionic:build": "ionic-app-scripts build",
@@ -37,5 +37,5 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [],
-  "description": "youth-tri-tracker: An Ionic project"
+  "description": "A triathlon activity tracker for kids!"
 }
